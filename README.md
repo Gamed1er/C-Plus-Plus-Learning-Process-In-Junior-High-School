@@ -11,9 +11,9 @@
    - 編譯錯誤(CE)共 22 次
     
 - 刷題 :
- - 刷題資料夾裡面 ZJ-x000 代表這題是 Zerojudge 上面編號 x000 題目的解
- - 這裡只有記載前四個月 (2024 - 3 - 1 到 2024 - 7 - 21) 刷過的題目
+   - 刷題資料夾裡面 ZJ-x000 代表這題是 Zerojudge 上面編號 x000 題目的解
+   - 這裡只有記載前四個月 (2024 - 3 - 1 到 2024 - 7 - 21) 刷過的題目
 
 - 影片
- - 除了刷題以外，我還有將已經熟練的程式拍成影片供班上程式不熟的同學使用 :
- - https://www.youtube.com/playlist?list=PLj-SgeC_vKINaT8b_jDazzu7blprUQ3LC 
+   - 除了刷題以外，我還有將已經熟練的程式拍成影片供班上程式不熟的同學使用 :
+   - https://www.youtube.com/playlist?list=PLj-SgeC_vKINaT8b_jDazzu7blprUQ3LC 
